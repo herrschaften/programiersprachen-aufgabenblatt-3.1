@@ -111,6 +111,21 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
+source/CMakeFiles/aufgabe5.dir/rule:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f CMakeFiles/Makefile2 source/CMakeFiles/aufgabe5.dir/rule
+.PHONY : source/CMakeFiles/aufgabe5.dir/rule
+
+# Convenience name for target.
+aufgabe5: source/CMakeFiles/aufgabe5.dir/rule
+
+.PHONY : aufgabe5
+
+# fast build rule for target.
+aufgabe5/fast:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe5.dir/build.make source/CMakeFiles/aufgabe5.dir/build
+.PHONY : aufgabe5/fast
+
+# Convenience name for target.
 source/CMakeFiles/2-4.dir/rule:
 	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f CMakeFiles/Makefile2 source/CMakeFiles/2-4.dir/rule
 .PHONY : source/CMakeFiles/2-4.dir/rule
@@ -152,6 +167,33 @@ aufgabe2bis4.cpp.s:
 	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/2-4.dir/build.make source/CMakeFiles/2-4.dir/aufgabe2bis4.cpp.s
 .PHONY : aufgabe2bis4.cpp.s
 
+aufgabe5.o: aufgabe5.cpp.o
+
+.PHONY : aufgabe5.o
+
+# target to build an object file
+aufgabe5.cpp.o:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe5.dir/build.make source/CMakeFiles/aufgabe5.dir/aufgabe5.cpp.o
+.PHONY : aufgabe5.cpp.o
+
+aufgabe5.i: aufgabe5.cpp.i
+
+.PHONY : aufgabe5.i
+
+# target to preprocess a source file
+aufgabe5.cpp.i:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe5.dir/build.make source/CMakeFiles/aufgabe5.dir/aufgabe5.cpp.i
+.PHONY : aufgabe5.cpp.i
+
+aufgabe5.s: aufgabe5.cpp.s
+
+.PHONY : aufgabe5.s
+
+# target to generate assembly for a file
+aufgabe5.cpp.s:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe5.dir/build.make source/CMakeFiles/aufgabe5.dir/aufgabe5.cpp.s
+.PHONY : aufgabe5.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,11 +201,15 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
+	@echo "... aufgabe5"
 	@echo "... edit_cache"
 	@echo "... 2-4"
 	@echo "... aufgabe2bis4.o"
 	@echo "... aufgabe2bis4.i"
 	@echo "... aufgabe2bis4.s"
+	@echo "... aufgabe5.o"
+	@echo "... aufgabe5.i"
+	@echo "... aufgabe5.s"
 .PHONY : help
 
 

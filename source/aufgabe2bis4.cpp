@@ -29,7 +29,7 @@ int main()
 	copy(begin(l0), end(l0), begin(v0));
 
 
-	//set mit liste ini
+	//liste in set kopieren
 	set<unsigned int> s(l0.begin(), l0.end());
 
 	//verschiedene zahlen in liste/set
@@ -49,6 +49,7 @@ int main()
 		}
 	}
 
+	//haeufigkeit der zahlen in set
 	map<unsigned int, unsigned int> rate;
 	for(auto& key : s)
 	{
@@ -63,15 +64,16 @@ int main()
 		rate[key] = count;
 	}
 
-	cout<<"Key : Frequency"<<endl;
-	for(auto& it : rate)
-		cout<< it.first << " : "<< it.second <<endl;
+
 
 
 	
 	cout<<"Anzahl verschiedener Zahlen: "<<diffnumbrs<<endl;
 	cout<<"Zahlen zwischen 1-100 die nicht vorkommen: "<<endl;
 	copy(s.begin(), s.end(), ostream_iterator<int>(cout, ", "));
+	cout<<"Key : Frequency"<<endl;
+	for(auto& it : rate)
+		cout<< it.first << " : "<< it.second <<endl;
 
 	
 

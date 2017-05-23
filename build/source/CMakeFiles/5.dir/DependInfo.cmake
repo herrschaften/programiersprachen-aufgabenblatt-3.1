@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/source/aufgabe2bis4.cpp" "/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/source/CMakeFiles/2-4.dir/aufgabe2bis4.cpp.o"
+  "/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/source/aufgabe5.cpp" "/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/source/CMakeFiles/5.dir/aufgabe5.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "../external/catch-1.1"
+  "../external/catch-1.4.0"
   )
 
 # Targets to which this target links.

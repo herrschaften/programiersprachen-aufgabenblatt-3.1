@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named aufgabe5
+
+# Build rule for target.
+aufgabe5: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 aufgabe5
+.PHONY : aufgabe5
+
+# fast build rule for target.
+aufgabe5/fast:
+	$(MAKE) -f source/CMakeFiles/aufgabe5.dir/build.make source/CMakeFiles/aufgabe5.dir/build
+.PHONY : aufgabe5/fast
+
+#=============================================================================
 # Target rules for targets named 2-4
 
 # Build rule for target.
@@ -131,6 +144,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... aufgabe5"
 	@echo "... 2-4"
 .PHONY : help
 

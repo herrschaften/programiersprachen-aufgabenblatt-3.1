@@ -6,5 +6,5 @@ CXX_FLAGS = -std=c++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/external/catch-1.1 
+CXX_INCLUDES = -I/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/external/catch-1.4.0 
 
