@@ -43,6 +43,11 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "source/CMakeFiles/aufgabe5.dir/DependInfo.cmake"
+  "source/CMakeFiles/aufgabe12.dir/DependInfo.cmake"
+  "source/CMakeFiles/aufgabe10.dir/DependInfo.cmake"
+  "source/CMakeFiles/aufgabe9.dir/DependInfo.cmake"
   "source/CMakeFiles/2-4.dir/DependInfo.cmake"
+  "source/CMakeFiles/aufgabe7.dir/DependInfo.cmake"
+  "source/CMakeFiles/aufgabe5.dir/DependInfo.cmake"
+  "source/CMakeFiles/aufgabe8.dir/DependInfo.cmake"
   )

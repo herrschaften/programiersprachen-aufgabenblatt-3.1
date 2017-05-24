@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/source/circle.cpp
+circle.hpp
+/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/source/circle.hpp
+
+/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/source/circle.hpp
+

@@ -111,19 +111,49 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-source/CMakeFiles/aufgabe5.dir/rule:
-	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f CMakeFiles/Makefile2 source/CMakeFiles/aufgabe5.dir/rule
-.PHONY : source/CMakeFiles/aufgabe5.dir/rule
+source/CMakeFiles/aufgabe12.dir/rule:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f CMakeFiles/Makefile2 source/CMakeFiles/aufgabe12.dir/rule
+.PHONY : source/CMakeFiles/aufgabe12.dir/rule
 
 # Convenience name for target.
-aufgabe5: source/CMakeFiles/aufgabe5.dir/rule
+aufgabe12: source/CMakeFiles/aufgabe12.dir/rule
 
-.PHONY : aufgabe5
+.PHONY : aufgabe12
 
 # fast build rule for target.
-aufgabe5/fast:
-	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe5.dir/build.make source/CMakeFiles/aufgabe5.dir/build
-.PHONY : aufgabe5/fast
+aufgabe12/fast:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe12.dir/build.make source/CMakeFiles/aufgabe12.dir/build
+.PHONY : aufgabe12/fast
+
+# Convenience name for target.
+source/CMakeFiles/aufgabe10.dir/rule:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f CMakeFiles/Makefile2 source/CMakeFiles/aufgabe10.dir/rule
+.PHONY : source/CMakeFiles/aufgabe10.dir/rule
+
+# Convenience name for target.
+aufgabe10: source/CMakeFiles/aufgabe10.dir/rule
+
+.PHONY : aufgabe10
+
+# fast build rule for target.
+aufgabe10/fast:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe10.dir/build.make source/CMakeFiles/aufgabe10.dir/build
+.PHONY : aufgabe10/fast
+
+# Convenience name for target.
+source/CMakeFiles/aufgabe9.dir/rule:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f CMakeFiles/Makefile2 source/CMakeFiles/aufgabe9.dir/rule
+.PHONY : source/CMakeFiles/aufgabe9.dir/rule
+
+# Convenience name for target.
+aufgabe9: source/CMakeFiles/aufgabe9.dir/rule
+
+.PHONY : aufgabe9
+
+# fast build rule for target.
+aufgabe9/fast:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe9.dir/build.make source/CMakeFiles/aufgabe9.dir/build
+.PHONY : aufgabe9/fast
 
 # Convenience name for target.
 source/CMakeFiles/2-4.dir/rule:
@@ -139,6 +169,105 @@ source/CMakeFiles/2-4.dir/rule:
 2-4/fast:
 	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/2-4.dir/build.make source/CMakeFiles/2-4.dir/build
 .PHONY : 2-4/fast
+
+# Convenience name for target.
+source/CMakeFiles/aufgabe7.dir/rule:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f CMakeFiles/Makefile2 source/CMakeFiles/aufgabe7.dir/rule
+.PHONY : source/CMakeFiles/aufgabe7.dir/rule
+
+# Convenience name for target.
+aufgabe7: source/CMakeFiles/aufgabe7.dir/rule
+
+.PHONY : aufgabe7
+
+# fast build rule for target.
+aufgabe7/fast:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe7.dir/build.make source/CMakeFiles/aufgabe7.dir/build
+.PHONY : aufgabe7/fast
+
+# Convenience name for target.
+source/CMakeFiles/aufgabe5.dir/rule:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f CMakeFiles/Makefile2 source/CMakeFiles/aufgabe5.dir/rule
+.PHONY : source/CMakeFiles/aufgabe5.dir/rule
+
+# Convenience name for target.
+aufgabe5: source/CMakeFiles/aufgabe5.dir/rule
+
+.PHONY : aufgabe5
+
+# fast build rule for target.
+aufgabe5/fast:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe5.dir/build.make source/CMakeFiles/aufgabe5.dir/build
+.PHONY : aufgabe5/fast
+
+# Convenience name for target.
+source/CMakeFiles/aufgabe8.dir/rule:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f CMakeFiles/Makefile2 source/CMakeFiles/aufgabe8.dir/rule
+.PHONY : source/CMakeFiles/aufgabe8.dir/rule
+
+# Convenience name for target.
+aufgabe8: source/CMakeFiles/aufgabe8.dir/rule
+
+.PHONY : aufgabe8
+
+# fast build rule for target.
+aufgabe8/fast:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe8.dir/build.make source/CMakeFiles/aufgabe8.dir/build
+.PHONY : aufgabe8/fast
+
+aufgabe10.o: aufgabe10.cpp.o
+
+.PHONY : aufgabe10.o
+
+# target to build an object file
+aufgabe10.cpp.o:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe10.dir/build.make source/CMakeFiles/aufgabe10.dir/aufgabe10.cpp.o
+.PHONY : aufgabe10.cpp.o
+
+aufgabe10.i: aufgabe10.cpp.i
+
+.PHONY : aufgabe10.i
+
+# target to preprocess a source file
+aufgabe10.cpp.i:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe10.dir/build.make source/CMakeFiles/aufgabe10.dir/aufgabe10.cpp.i
+.PHONY : aufgabe10.cpp.i
+
+aufgabe10.s: aufgabe10.cpp.s
+
+.PHONY : aufgabe10.s
+
+# target to generate assembly for a file
+aufgabe10.cpp.s:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe10.dir/build.make source/CMakeFiles/aufgabe10.dir/aufgabe10.cpp.s
+.PHONY : aufgabe10.cpp.s
+
+aufgabe12.o: aufgabe12.cpp.o
+
+.PHONY : aufgabe12.o
+
+# target to build an object file
+aufgabe12.cpp.o:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe12.dir/build.make source/CMakeFiles/aufgabe12.dir/aufgabe12.cpp.o
+.PHONY : aufgabe12.cpp.o
+
+aufgabe12.i: aufgabe12.cpp.i
+
+.PHONY : aufgabe12.i
+
+# target to preprocess a source file
+aufgabe12.cpp.i:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe12.dir/build.make source/CMakeFiles/aufgabe12.dir/aufgabe12.cpp.i
+.PHONY : aufgabe12.cpp.i
+
+aufgabe12.s: aufgabe12.cpp.s
+
+.PHONY : aufgabe12.s
+
+# target to generate assembly for a file
+aufgabe12.cpp.s:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe12.dir/build.make source/CMakeFiles/aufgabe12.dir/aufgabe12.cpp.s
+.PHONY : aufgabe12.cpp.s
 
 aufgabe2bis4.o: aufgabe2bis4.cpp.o
 
@@ -194,6 +323,120 @@ aufgabe5.cpp.s:
 	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe5.dir/build.make source/CMakeFiles/aufgabe5.dir/aufgabe5.cpp.s
 .PHONY : aufgabe5.cpp.s
 
+aufgabe7.o: aufgabe7.cpp.o
+
+.PHONY : aufgabe7.o
+
+# target to build an object file
+aufgabe7.cpp.o:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe7.dir/build.make source/CMakeFiles/aufgabe7.dir/aufgabe7.cpp.o
+.PHONY : aufgabe7.cpp.o
+
+aufgabe7.i: aufgabe7.cpp.i
+
+.PHONY : aufgabe7.i
+
+# target to preprocess a source file
+aufgabe7.cpp.i:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe7.dir/build.make source/CMakeFiles/aufgabe7.dir/aufgabe7.cpp.i
+.PHONY : aufgabe7.cpp.i
+
+aufgabe7.s: aufgabe7.cpp.s
+
+.PHONY : aufgabe7.s
+
+# target to generate assembly for a file
+aufgabe7.cpp.s:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe7.dir/build.make source/CMakeFiles/aufgabe7.dir/aufgabe7.cpp.s
+.PHONY : aufgabe7.cpp.s
+
+aufgabe8.o: aufgabe8.cpp.o
+
+.PHONY : aufgabe8.o
+
+# target to build an object file
+aufgabe8.cpp.o:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe8.dir/build.make source/CMakeFiles/aufgabe8.dir/aufgabe8.cpp.o
+.PHONY : aufgabe8.cpp.o
+
+aufgabe8.i: aufgabe8.cpp.i
+
+.PHONY : aufgabe8.i
+
+# target to preprocess a source file
+aufgabe8.cpp.i:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe8.dir/build.make source/CMakeFiles/aufgabe8.dir/aufgabe8.cpp.i
+.PHONY : aufgabe8.cpp.i
+
+aufgabe8.s: aufgabe8.cpp.s
+
+.PHONY : aufgabe8.s
+
+# target to generate assembly for a file
+aufgabe8.cpp.s:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe8.dir/build.make source/CMakeFiles/aufgabe8.dir/aufgabe8.cpp.s
+.PHONY : aufgabe8.cpp.s
+
+aufgabe9.o: aufgabe9.cpp.o
+
+.PHONY : aufgabe9.o
+
+# target to build an object file
+aufgabe9.cpp.o:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe9.dir/build.make source/CMakeFiles/aufgabe9.dir/aufgabe9.cpp.o
+.PHONY : aufgabe9.cpp.o
+
+aufgabe9.i: aufgabe9.cpp.i
+
+.PHONY : aufgabe9.i
+
+# target to preprocess a source file
+aufgabe9.cpp.i:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe9.dir/build.make source/CMakeFiles/aufgabe9.dir/aufgabe9.cpp.i
+.PHONY : aufgabe9.cpp.i
+
+aufgabe9.s: aufgabe9.cpp.s
+
+.PHONY : aufgabe9.s
+
+# target to generate assembly for a file
+aufgabe9.cpp.s:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe9.dir/build.make source/CMakeFiles/aufgabe9.dir/aufgabe9.cpp.s
+.PHONY : aufgabe9.cpp.s
+
+circle.o: circle.cpp.o
+
+.PHONY : circle.o
+
+# target to build an object file
+circle.cpp.o:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe12.dir/build.make source/CMakeFiles/aufgabe12.dir/circle.cpp.o
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe7.dir/build.make source/CMakeFiles/aufgabe7.dir/circle.cpp.o
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe8.dir/build.make source/CMakeFiles/aufgabe8.dir/circle.cpp.o
+.PHONY : circle.cpp.o
+
+circle.i: circle.cpp.i
+
+.PHONY : circle.i
+
+# target to preprocess a source file
+circle.cpp.i:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe12.dir/build.make source/CMakeFiles/aufgabe12.dir/circle.cpp.i
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe7.dir/build.make source/CMakeFiles/aufgabe7.dir/circle.cpp.i
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe8.dir/build.make source/CMakeFiles/aufgabe8.dir/circle.cpp.i
+.PHONY : circle.cpp.i
+
+circle.s: circle.cpp.s
+
+.PHONY : circle.s
+
+# target to generate assembly for a file
+circle.cpp.s:
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe12.dir/build.make source/CMakeFiles/aufgabe12.dir/circle.cpp.s
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe7.dir/build.make source/CMakeFiles/aufgabe7.dir/circle.cpp.s
+	cd /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build && $(MAKE) -f source/CMakeFiles/aufgabe8.dir/build.make source/CMakeFiles/aufgabe8.dir/circle.cpp.s
+.PHONY : circle.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -201,15 +444,38 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... aufgabe5"
+	@echo "... aufgabe12"
+	@echo "... aufgabe10"
 	@echo "... edit_cache"
+	@echo "... aufgabe9"
 	@echo "... 2-4"
+	@echo "... aufgabe7"
+	@echo "... aufgabe5"
+	@echo "... aufgabe8"
+	@echo "... aufgabe10.o"
+	@echo "... aufgabe10.i"
+	@echo "... aufgabe10.s"
+	@echo "... aufgabe12.o"
+	@echo "... aufgabe12.i"
+	@echo "... aufgabe12.s"
 	@echo "... aufgabe2bis4.o"
 	@echo "... aufgabe2bis4.i"
 	@echo "... aufgabe2bis4.s"
 	@echo "... aufgabe5.o"
 	@echo "... aufgabe5.i"
 	@echo "... aufgabe5.s"
+	@echo "... aufgabe7.o"
+	@echo "... aufgabe7.i"
+	@echo "... aufgabe7.s"
+	@echo "... aufgabe8.o"
+	@echo "... aufgabe8.i"
+	@echo "... aufgabe8.s"
+	@echo "... aufgabe9.o"
+	@echo "... aufgabe9.i"
+	@echo "... aufgabe9.s"
+	@echo "... circle.o"
+	@echo "... circle.i"
+	@echo "... circle.s"
 .PHONY : help
 
 

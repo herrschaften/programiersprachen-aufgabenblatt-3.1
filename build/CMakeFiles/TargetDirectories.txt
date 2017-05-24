@@ -1,6 +1,11 @@
 /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/CMakeFiles/edit_cache.dir
 /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/CMakeFiles/rebuild_cache.dir
 /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/source/CMakeFiles/rebuild_cache.dir
-/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/source/CMakeFiles/aufgabe5.dir
+/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/source/CMakeFiles/aufgabe12.dir
+/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/source/CMakeFiles/aufgabe10.dir
 /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/source/CMakeFiles/edit_cache.dir
+/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/source/CMakeFiles/aufgabe9.dir
 /home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/source/CMakeFiles/2-4.dir
+/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/source/CMakeFiles/aufgabe7.dir
+/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/source/CMakeFiles/aufgabe5.dir
+/home/t/Dropbox/Soft1/programmiersprachen-aufgabenblatt-3.1/build/source/CMakeFiles/aufgabe8.dir
